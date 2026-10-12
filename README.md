@@ -168,3 +168,43 @@ Recognised for creativity, innovation, and design-oriented thinking.
 ### ✨ Code. Create. Design. Repeat.
 
 *Building at the intersection of technology and creativity, one project at a time.* 🚀
+
+
+
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-6C63FF?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Backend_Development-Learning-7B68EE?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack_Development-Learning-9370DB?style=for-the-badge)
+
+## 🎨 Design & Creativity
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-FF69B4?style=for-the-badge)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-DA70D6?style=for-the-badge)
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+## 📊 Areas of Interest
+
+`Data Science` · `Machine Learning` · `Pattern Recognition` · `Responsive Web Design` · `Application Development` · `Visual Design` · `Typography` · `Problem Solving`
