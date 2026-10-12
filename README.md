@@ -23,26 +23,66 @@ I'm currently strengthening my web development skills, exploring backend technol
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-`Python` `Java` `JavaScript` `C` `C#` `Kotlin` `SQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Development
-`HTML5` `CSS3` `JavaScript` `Frontend Development` `Responsive Web Design`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-6C63FF?style=for-the-badge)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-008B8B?style=for-the-badge)
 
 ### ⚙️ Backend & Full-Stack Development
-`Backend Development — Learning` `Full-Stack Development — Learning`
+![Backend Development](https://img.shields.io/badge/Backend_Development-Learning-7B68EE?style=for-the-badge)
+![Full Stack Development](https://img.shields.io/badge/Full--Stack_Development-Learning-9370DB?style=for-the-badge)
 
 ### 🎨 Design & Creativity
-`Graphic Design` `UI Design` `UX Design` `Figma` `Wireframing` `Prototyping` `Visual Design` `Typography` `Color Theory` `Canva` `Adobe Design Tools`
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-DA70D6?style=for-the-badge)
+![UI Design](https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge)
+![UX Design](https://img.shields.io/badge/UX_Design-EA4AAA?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-8A63D2?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Prototyping-9B59B6?style=for-the-badge)
+![Visual Design](https://img.shields.io/badge/Visual_Design-C71585?style=for-the-badge)
+![Typography](https://img.shields.io/badge/Typography-6A5ACD?style=for-the-badge)
+![Color Theory](https://img.shields.io/badge/Color_Theory-FF8C69?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Design Tools](https://img.shields.io/badge/Adobe_Design_Tools-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### 📊 Data Science & AI
-`Data Science` `Machine Learning` `Pattern Recognition` `Data Structures` `Algorithms` `Problem Solving`
+![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge)
+![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-6A5ACD?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-008B8B?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-4682B4?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-2E8B57?style=for-the-badge)
 
 ### 📱 Application Development
-`Android Development` `Kotlin` `Android Studio` `Mobile App Design`
+![Android Development](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Mobile App Design](https://img.shields.io/badge/Mobile_App_Design-FF69B4?style=for-the-badge)
 
 ### 🔧 Tools & Platforms
-`Git` `GitHub` `Visual Studio Code` `Android Studio`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
+### 🎯 Areas of Interest
+
+- **Web Development:** Frontend Development, Responsive Web Design, Backend Development, Full-Stack Development.
+- **Design & Creativity:** Graphic Design, UI Design, UX Design, Wireframing, Prototyping, Visual Design, Typography, Color Theory.
+- **Data Science & AI:** Data Science, Machine Learning, Pattern Recognition, Data Structures, Algorithms, Problem Solving.
+- **Application Development:** Android Development, Mobile App Design, Interactive Digital Experiences.
+- **Tools & Technologies:** Python, Java, JavaScript, C, C#, Kotlin, SQL, HTML5, CSS3, Figma, Canva, Git, GitHub, VS Code, Android Studio.
+  
 ---
 
 ## 🚀 Featured Projects
@@ -149,67 +189,3 @@ Recognised for creativity, innovation, and design-oriented thinking.
 ### ✨ Code. Create. Design. Repeat.
 
 *Building at the intersection of technology and creativity, one project at a time.* 🚀
-
-
-## 💻 Skills & Technologies
-
-### 1. Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 2. Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Frontend Development](https://img.shields.io/badge/Frontend_Development-6C63FF?style=for-the-badge)
-![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-008B8B?style=for-the-badge)
-
-### 3. Backend & Full-Stack Development
-![Backend Development](https://img.shields.io/badge/Backend_Development-Learning-7B68EE?style=for-the-badge)
-![Full Stack Development](https://img.shields.io/badge/Full--Stack_Development-Learning-9370DB?style=for-the-badge)
-
-### 4. Design & Creativity
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-DA70D6?style=for-the-badge)
-![UI Design](https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge)
-![UX Design](https://img.shields.io/badge/UX_Design-EA4AAA?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Wireframing](https://img.shields.io/badge/Wireframing-8A63D2?style=for-the-badge)
-![Prototyping](https://img.shields.io/badge/Prototyping-9B59B6?style=for-the-badge)
-![Visual Design](https://img.shields.io/badge/Visual_Design-C71585?style=for-the-badge)
-![Typography](https://img.shields.io/badge/Typography-6A5ACD?style=for-the-badge)
-![Color Theory](https://img.shields.io/badge/Color_Theory-FF8C69?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Design Tools](https://img.shields.io/badge/Adobe_Design_Tools-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
-
-### 5. Data Science & AI
-![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge)
-![Pattern Recognition](https://img.shields.io/badge/Pattern_Recognition-6A5ACD?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures-008B8B?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-4682B4?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-2E8B57?style=for-the-badge)
-
-### 6. Application Development
-![Android Development](https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Mobile App Design](https://img.shields.io/badge/Mobile_App_Design-FF69B4?style=for-the-badge)
-
-### 7. Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-### 🎯 Areas of Interest
-
-- **Web Development:** Frontend Development, Responsive Web Design, Backend Development, Full-Stack Development.
-- **Design & Creativity:** Graphic Design, UI Design, UX Design, Wireframing, Prototyping, Visual Design, Typography, Color Theory.
-- **Data Science & AI:** Data Science, Machine Learning, Pattern Recognition, Data Structures, Algorithms, Problem Solving.
-- **Application Development:** Android Development, Mobile App Design, Interactive Digital Experiences.
-- **Tools & Technologies:** Python, Java, JavaScript, C, C#, Kotlin, SQL, HTML5, CSS3, Figma, Canva, Git, GitHub, VS Code, Android Studio.
