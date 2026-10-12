@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Raktima Paul — Developer and Designer" width="100%">
+</p>
+
 # Hey there, I'm Raktima Paul! 👋
 
 ### 🎨 Creative Thinker | 💻 Aspiring Full-Stack Developer | 📊 BCA Data Science Student
