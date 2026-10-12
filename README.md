@@ -128,7 +128,17 @@ An academic project exploring touchless computer interaction through hand gestur
 - **Focus:** Gesture-based interaction and human-computer interaction
 - **Highlights:** Hands-free interaction and real-time control
 
-### 💡 6. Mini Programming Projects
+### 🎵 6. Spotify-Inspired Android App
+
+An Android application clone created for learning purposes, inspired by the interface and interaction patterns of a music-streaming application.
+
+Focus: Android development and mobile UI
+
+Technology: Kotlin
+
+Tool: Android Studio
+
+### 💡 7. Mini Programming Projects
 
 A collection of small applications developed to strengthen programming fundamentals, logical thinking, and problem-solving skills.
 
